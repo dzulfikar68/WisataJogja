@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "970186298925",
+    "firebase_url": "https://wisatajogja-2b521.firebaseio.com",
+    "project_id": "wisatajogja-2b521",
+    "storage_bucket": "wisatajogja-2b521.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970186298925:android:e51043ea2640600c",
+        "android_client_info": {
+          "package_name": "com.digitcreativestudio.wisatajogja"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "970186298925-2fr04o6hqgmjkcbnrljou0rlksg2c3ba.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg7SysCteoDHcD8Wj5U6QUucIfloLVa_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "970186298925-2fr04o6hqgmjkcbnrljou0rlksg2c3ba.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
